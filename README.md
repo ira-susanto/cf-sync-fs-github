@@ -1,4 +1,4 @@
-# cf-syncfirestoretogithub
+# cf-sync-fs-github
 Cloud function to sync firestore entry to github upon create, update, or delete
 
 ## Deployment

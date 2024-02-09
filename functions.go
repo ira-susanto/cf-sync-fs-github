@@ -1,4 +1,4 @@
-package syncFStoGithub
+package CFSyncFStoGithub
 
 import (
 	"context"
